@@ -1,4 +1,5 @@
 /target/
+/src/main/resources/*
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -12,6 +13,7 @@
 
 ### IntelliJ IDEA ###
 .idea
+.idea/*
 *.iws
 *.iml
 *.ipr
